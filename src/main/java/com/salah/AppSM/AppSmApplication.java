@@ -1,13 +1,13 @@
-package com.salah.AppMS;
+package com.salah.AppSM;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AppMsApplication {
+public class AppSmApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AppMsApplication.class, args);
+		SpringApplication.run(AppSmApplication.class, args);
 	}
 
 }
